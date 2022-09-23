@@ -36,3 +36,14 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 If a dev were to implement only those 2 things, it would drastically change the replayabilty and overall depth of the entire app.
 
 Link to site: https://dylanschmidt2.github.io/Challenge-4-repo/
+
+### Thanks to:
+William Hersch
+Richard Martin
+(TA)Akon Abazary
+    
+###### links
+
+    https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
+    https://www.businessofapps.com/data/discord-statistics/
+    https://en.wikipedia.org/wiki/Lord_Voldemort
