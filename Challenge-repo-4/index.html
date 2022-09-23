@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Rocket League Trivia</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<body>
+  <div 
+    class="header"> 
+    <button id = "Rules">Rules📃</button>
+  <h1 class="title">I hope you've been studying because. . .</h1>
+  <h2 class="questions">It's Movie/Actor/Candy/Discord Trivia Time ! ! ! </h2>
+</div>
+
+<div class="quiz">
+<div style="border: 1px solid black" id="questions"></div>
+<div id="answers"></div>
+<button class="btn" id="start-quiz">START✨</button>
+<div><p>Time Remaining: <span 
+  id="countdown">55 Seconds</span></p></div>
+</div>
+
+<form> 
+  <div>Your Score:<span 
+    id="score"></span></div><label 
+    for="initials"> </label>
+  <input 
+    style="border: 2px solid white"
+    type="text"
+    name="name" 
+    id="initials" 
+    placeholder="name" />
+  <button id="submit">Submit</button>
+  <ol id="highscores">
+  <span><b>Highscores:</b></span>
+  </ol>
+  </form>
+
+<script src="script.js"></script> 
+    
+<script>
+       
+</script>
+  
+</body>
+
+</html>
