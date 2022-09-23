@@ -31,3 +31,5 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 * The user could be rewarded with time for *correct* answers
 
 If a dev were to implement only those 2 things, it would drastically change the replayabilty and overall depth of the entire app.
+
+Link to site: https://dylanschmidt2.github.io/Challenge-4-repo/
