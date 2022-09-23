@@ -7,8 +7,8 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 
 ### Scoring Summary
 * The user will begin the quiz with 55 seconds
-* The user has unlimted guesses per question
-* Incorrect answers result in a loss of 8 seconds in overall time/score
+* The user has unlimted guesses
+* _Incorrect answers result in a loss of 8 seconds in overall time/score_
 
 ### This project has the following features: 
 * A Start Quiz button 
@@ -25,9 +25,9 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 
 ### Extra add-ons
 
-###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I don't have time to bring them to life on this assignment.
+###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
 
 * A 'Change test theme' button would be really easy to implement and could contain different strings of questions/answers that would make the game surprisingly replayable with good questions
-* The user could also be rewarded with time for correct answers
+* The user could be rewarded with time for *correct* answers
 
 If a dev were to implement only those 2 things, it would drastically change the replayabilty and overall depth of the entire app.
