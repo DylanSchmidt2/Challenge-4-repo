@@ -6,9 +6,10 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 
 
 ### Scoring Summary
-* The user will begin the quiz with 55 seconds
-* The user has unlimted guesses
+* The user will begin the quiz with a timer containing 55 seconds
+* The user has unlimited responses
 * _Incorrect answers result in a loss of 8 seconds in overall time/score_
+* Final score is exclusive to the users remaining seconds on the timer
 
 ### This project has the following features: 
 * A Start Quiz button 
