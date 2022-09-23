@@ -30,7 +30,7 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
 
-* A 'Change test theme' button would be really easy to implement and could contain different strings of questions/answers that would make the game surprisingly replayable with good questions
+* A 'Change test theme' button would be really easy to implement and could contain different strings of questions/answers that would make the game surprisingly replayable given good, intriguing, questions
 * The user could be rewarded with time for *correct* answers
 
 If a dev were to implement only those 2 things, it would drastically change the replayabilty and overall depth of the entire app.
