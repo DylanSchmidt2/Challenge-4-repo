@@ -20,7 +20,7 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
     
 ### Bugs
 
-###### Due to the learning curb of JQuery and Boostrap, I didnt have much time to fine tune this application, subsequently, it has bugs. 
+###### Due to the learning curb of JQuery, I didnt have much time to fine tune this application, subsequently, it has bugs. 
 * Last question to game will prompt "Game Over" reguardless of correct or incorrect answer
 * You cannot play the game more than once without refreshing
 * The game 'technically' does not end at 0 seconds, it will still accept user input after
