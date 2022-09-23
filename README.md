@@ -14,7 +14,9 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 ### This project has the following features: 
 * A Start Quiz button 
 * A Rules button
+* A Submit Highscore button
 * A Highscore box
+* A Countdown Timer
     
 ### Bugs
 
