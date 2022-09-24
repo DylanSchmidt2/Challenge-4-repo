@@ -2,7 +2,7 @@
 
 This challenge was given by The University of Minnesota Bootcamp 
 
-This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed* quiz which contains a set of questions the user can respond to. It will then, score the user depending on correct/incorrect answers. *P.S I deliberately made 2 of these questions really oppinionated to make the quiz less boring.*
+These CSS, HTML, and JavaScript documents, prompt the user with a *timed* quiz which contains a set of questions the user can respond to. It will then, score the user depending on correct/incorrect answers.
 
 
 ### Scoring Summary
@@ -35,6 +35,7 @@ This trivia quiz uses CSS, HTML, and JavaScript to prompt the user with a *timed
 
 If a dev were to implement only those 2 things, it would drastically change the replayabilty and overall depth of the entire app.
 
+ *P.S I deliberately made 2 of these questions really opinionated to make the quiz less boring for users and the grader.*
 Link to site: https://dylanschmidt2.github.io/Challenge-4-repo/
 
 ### Thanks to:
