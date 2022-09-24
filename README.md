@@ -43,7 +43,7 @@ Richard Martin
 (TA)Akon Abazary
     
 ###### links
-
-    https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
-    https://www.businessofapps.com/data/discord-statistics/
-    https://en.wikipedia.org/wiki/Lord_Voldemort
+* https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+* https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
+* https://www.businessofapps.com/data/discord-statistics/
+* https://en.wikipedia.org/wiki/Lord_Voldemort
